@@ -1,2 +1,2 @@
-var recipes {};
+var recipes = {};
 
